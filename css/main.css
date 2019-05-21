@@ -176,3 +176,8 @@
 .footer-link{
   color:#ffffff;
 }
+
+.active{
+  -webkit-filter: blur(4px);
+  filter: blur(4px);
+}
